@@ -1,0 +1,11 @@
+第一次发布
+share project
+加入暂存区add to index
+提交到本地分支commit
+将项目推送到远程
+
+第一次下载
+
+提交
+
+更新
