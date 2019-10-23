@@ -1,0 +1,12 @@
+1、开闭原则(open close principle):
+对扩展开放，对修改关闭。
+2、里式代换原则(Liskov Substitution principle):
+父类可以出现的地方，子类一定可以出现。
+3、依赖倒转原则(Dependency Inversion Principle):
+面向接口编程，依赖于抽象，不依赖于具体。
+4、接口隔离原理(Interface Segregation Principle):
+使用多个隔离的接口，比使用单个接口要好。降低耦合度。
+5、迪米特法则，最少知道原则(Demeter Principle):
+实体于实体之间应该尽量少的相互作用。使系统功能模块相对独立。降低耦合度。
+6、合成复用原则(Composite Reuse Principle):
+尽量多的使用组合、聚合，尽量少的使用继承。降低耦合度。
